@@ -9,11 +9,11 @@ Large-scale point cloud generated from 3D sensors is more accurate than its imag
 
 Please download the **Oxford 2D-3D Patches Dataset** from the following links:
 
-SIFT patches:
-http://www.mediafire.com/file/d39h2mi5qr3db9c/sift_patch_1.zip
+SIFT patches:  
+http://www.mediafire.com/file/d39h2mi5qr3db9c/sift_patch_1.zip  
 http://www.mediafire.com/file/8xzwccx5qb5q8i2/sift_patch_2.zip
 
-ISS volumes:
+ISS volumes:  
 http://www.mediafire.com/file/lojp7u8b69e6u78/iss_volume.zip
 
 After the download, you need to put the all folders of SIFT patches (from 2 download) into one directory **sift_patch/**.
