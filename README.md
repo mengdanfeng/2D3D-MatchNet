@@ -25,6 +25,7 @@ After the download, you need to put the all folders of SIFT patches (from 2 down
 
 If you are interested in our work, please read our [paper](https://arxiv.org/pdf/1904.09742.pdf).
 
+```
 @InProceedings{Feng2019ICRA,
   author = {Feng, Mengdan and Hu, Sixing and Ang, Marcelo and Lee, Gim Hee},
   title = {2D3D-MatchNet: Learning to Match Keypoints Across 2D Image and 3D Point Cloud},
@@ -32,4 +33,4 @@ If you are interested in our work, please read our [paper](https://arxiv.org/pdf
   month = {May},
   year = {2019}
 }
-
+```
